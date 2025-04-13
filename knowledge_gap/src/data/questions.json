@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which planet is known as the 'Red Planet'?",
+      "options": ["Mars", "Venus"],
+      "correctAnswer": "Mars",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 2,
+      "text": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Pablo Picasso"],
+      "correctAnswer": "Leonardo da Vinci",
+      "difficulty": 1,
+      "category": "Art"
+    },
+    {
+      "id": 3,
+      "text": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag"],
+      "correctAnswer": "Au",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 4,
+      "text": "Which country has the largest population in the world?",
+      "options": ["China", "India"],
+      "correctAnswer": "China",
+      "difficulty": 1,
+      "category": "Geography"
+    },
+    {
+      "id": 5,
+      "text": "Who wrote '1984'?",
+      "options": ["George Orwell", "Aldous Huxley"],
+      "correctAnswer": "George Orwell",
+      "difficulty": 2,
+      "category": "Literature"
+    },
+    {
+      "id": 6,
+      "text": "Which element has the chemical symbol 'O'?",
+      "options": ["Oxygen", "Gold"],
+      "correctAnswer": "Oxygen",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 7,
+      "text": "What is the capital of Japan?",
+      "options": ["Tokyo", "Beijing"],
+      "correctAnswer": "Tokyo",
+      "difficulty": 1,
+      "category": "Geography"
+    },
+    {
+      "id": 8,
+      "text": "Who is credited with inventing the World Wide Web?",
+      "options": ["Tim Berners-Lee", "Steve Jobs"],
+      "correctAnswer": "Tim Berners-Lee",
+      "difficulty": 2,
+      "category": "Technology"
+    },
+    {
+      "id": 9,
+      "text": "Which organ is responsible for filtering blood in the human body?",
+      "options": ["Kidneys", "Liver"],
+      "correctAnswer": "Kidneys",
+      "difficulty": 2,
+      "category": "Medicine"
+    },
+    {
+      "id": 10,
+      "text": "In which year did World War II end?",
+      "options": ["1945", "1939"],
+      "correctAnswer": "1945",
+      "difficulty": 1,
+      "category": "History"
+    },
+    {
+      "id": 11,
+      "text": "What is the currency of Brazil?",
+      "options": ["Real", "Peso"],
+      "correctAnswer": "Real",
+      "difficulty": 2,
+      "category": "Economics"
+    },
+    {
+      "id": 12,
+      "text": "Which of these is a programming language?",
+      "options": ["Python", "Cobra"],
+      "correctAnswer": "Python",
+      "difficulty": 1,
+      "category": "Technology"
+    },
+    {
+      "id": 13,
+      "text": "What is the largest ocean on Earth?",
+      "options": ["Pacific Ocean", "Atlantic Ocean"],
+      "correctAnswer": "Pacific Ocean",
+      "difficulty": 1,
+      "category": "Geography"
+    },
+    {
+      "id": 14,
+      "text": "Who discovered penicillin?",
+      "options": ["Alexander Fleming", "Louis Pasteur"],
+      "correctAnswer": "Alexander Fleming",
+      "difficulty": 2,
+      "category": "Medicine"
+    },
+    {
+      "id": 15,
+      "text": "Which of these is a renewable energy source?",
+      "options": ["Solar power", "Coal"],
+      "correctAnswer": "Solar power",
+      "difficulty": 1,
+      "category": "Environment"
+    },
+    {
+      "id": 16,
+      "text": "Who painted 'Starry Night'?",
+      "options": ["Vincent van Gogh", "Claude Monet"],
+      "correctAnswer": "Vincent van Gogh",
+      "difficulty": 2,
+      "category": "Art"
+    },
+    {
+      "id": 17,
+      "text": "What is the largest mammal on Earth?",
+      "options": ["Blue Whale", "African Elephant"],
+      "correctAnswer": "Blue Whale",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 18,
+      "text": "Which planet is known as the 'Morning Star'?",
+      "options": ["Venus", "Mercury"],
+      "correctAnswer": "Venus",
+      "difficulty": 2,
+      "category": "Science"
+    },
+    {
+      "id": 19,
+      "text": "Who was the first person to step on the Moon?",
+      "options": ["Neil Armstrong", "Buzz Aldrin"],
+      "correctAnswer": "Neil Armstrong",
+      "difficulty": 1,
+      "category": "History"
+    },
+    {
+      "id": 20,
+      "text": "What is the main ingredient in guacamole?",
+      "options": ["Avocado", "Tomato"],
+      "correctAnswer": "Avocado",
+      "difficulty": 1,
+      "category": "Food"
+    },
+    {
+      "id": 21,
+      "text": "Which country built the Taj Mahal?",
+      "options": ["India", "Egypt"],
+      "correctAnswer": "India",
+      "difficulty": 1,
+      "category": "History"
+    },
+    {
+      "id": 22,
+      "text": "What is the study of fossils called?",
+      "options": ["Paleontology", "Archaeology"],
+      "correctAnswer": "Paleontology",
+      "difficulty": 2,
+      "category": "Science"
+    },
+    {
+      "id": 23,
+      "text": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Carbon Dioxide", "Oxygen"],
+      "correctAnswer": "Carbon Dioxide",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 24,
+      "text": "Who wrote 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens"],
+      "correctAnswer": "William Shakespeare",
+      "difficulty": 1,
+      "category": "Literature"
+    },
+    {
+      "id": 25,
+      "text": "Which continent is the largest by land area?",
+      "options": ["Asia", "Africa"],
+      "correctAnswer": "Asia",
+      "difficulty": 1,
+      "category": "Geography"
+    },
+    {
+      "id": 26,
+      "text": "What is the capital of France?",
+      "options": ["Paris", "London"],
+      "correctAnswer": "Paris",
+      "difficulty": 1,
+      "category": "Geography"
+    },
+    {
+      "id": 27,
+      "text": "Which vitamin is produced by the body when exposed to sunlight?",
+      "options": ["Vitamin D", "Vitamin C"],
+      "correctAnswer": "Vitamin D",
+      "difficulty": 2,
+      "category": "Medicine"
+    },
+    {
+      "id": 28,
+      "text": "What is the main component of the Earth's atmosphere?",
+      "options": ["Nitrogen", "Oxygen"],
+      "correctAnswer": "Nitrogen",
+      "difficulty": 2,
+      "category": "Science"
+    },
+    {
+      "id": 29,
+      "text": "Who developed the theory of relativity?",
+      "options": ["Albert Einstein", "Isaac Newton"],
+      "correctAnswer": "Albert Einstein",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 30,
+      "text": "Which is the smallest prime number?",
+      "options": ["2", "1"],
+      "correctAnswer": "2",
+      "difficulty": 1,
+      "category": "Mathematics"
+    },
+    {
+      "id": 31,
+      "text": "What is the capital of Australia?",
+      "options": ["Canberra", "Sydney"],
+      "correctAnswer": "Canberra",
+      "difficulty": 2,
+      "category": "Geography"
+    },
+    {
+      "id": 32,
+      "text": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["Japan", "China"],
+      "correctAnswer": "Japan",
+      "difficulty": 1,
+      "category": "Geography"
+    },
+    {
+      "id": 33,
+      "text": "What gas makes soda bubbly?",
+      "options": ["Carbon Dioxide", "Nitrogen"],
+      "correctAnswer": "Carbon Dioxide",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 34,
+      "text": "Which instrument has 88 keys?",
+      "options": ["Piano", "Guitar"],
+      "correctAnswer": "Piano",
+      "difficulty": 1,
+      "category": "Music"
+    },
+    {
+      "id": 35,
+      "text": "What is the hardest natural substance on Earth?",
+      "options": ["Diamond", "Gold"],
+      "correctAnswer": "Diamond",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 36,
+      "text": "Which is the largest organ in the human body?",
+      "options": ["Skin", "Liver"],
+      "correctAnswer": "Skin",
+      "difficulty": 1,
+      "category": "Medicine"
+    },
+    {
+      "id": 37,
+      "text": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Michelangelo", "Leonardo da Vinci"],
+      "correctAnswer": "Michelangelo",
+      "difficulty": 2,
+      "category": "Art"
+    },
+    {
+      "id": 38,
+      "text": "What is the tallest mountain in the world?",
+      "options": ["Mount Everest", "K2"],
+      "correctAnswer": "Mount Everest",
+      "difficulty": 1,
+      "category": "Geography"
+    },
+    {
+      "id": 39,
+      "text": "Which animal is known as the 'king of the jungle'?",
+      "options": ["Lion", "Tiger"],
+      "correctAnswer": "Lion",
+      "difficulty": 1,
+      "category": "Biology"
+    },
+    {
+      "id": 40,
+      "text": "What is the main language spoken in Brazil?",
+      "options": ["Portuguese", "Spanish"],
+      "correctAnswer": "Portuguese",
+      "difficulty": 2,
+      "category": "Languages"
+    },
+    {
+      "id": 41,
+      "text": "What's the most common blood type in humans?",
+      "options": ["O+", "A+"],
+      "correctAnswer": "O+",
+      "difficulty": 2,
+      "category": "Medicine"
+    },
+    {
+      "id": 42,
+      "text": "Which is the largest planet in our solar system?",
+      "options": ["Jupiter", "Saturn"],
+      "correctAnswer": "Jupiter",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 43,
+      "text": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Mark Twain"],
+      "correctAnswer": "Harper Lee",
+      "difficulty": 2,
+      "category": "Literature"
+    },
+    {
+      "id": 44,
+      "text": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2"],
+      "correctAnswer": "H2O",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 45,
+      "text": "Which famous scientist developed the theory of evolution by natural selection?",
+      "options": ["Charles Darwin", "Albert Einstein"],
+      "correctAnswer": "Charles Darwin",
+      "difficulty": 1,
+      "category": "Science"
+    },
+    {
+      "id": 46,
+      "text": "What is the smallest bone in the human body?",
+      "options": ["Stapes (in the ear)", "Metacarpal (in the hand)"],
+      "correctAnswer": "Stapes (in the ear)",
+      "difficulty": 2,
+      "category": "Medicine"
+    },
+    {
+      "id": 47,
+      "text": "Who is known as the father of computer science?",
+      "options": ["Alan Turing", "Bill Gates"],
+      "correctAnswer": "Alan Turing",
+      "difficulty": 2,
+      "category": "Technology"
+    },
+    {
+      "id": 48,
+      "text": "What is the capital of Canada?",
+      "options": ["Ottawa", "Toronto"],
+      "correctAnswer": "Ottawa",
+      "difficulty": 2,
+      "category": "Geography"
+    },
+    {
+      "id": 49,
+      "text": "Which country is known for inventing pizza?",
+      "options": ["Italy", "Greece"],
+      "correctAnswer": "Italy",
+      "difficulty": 1,
+      "category": "Food"
+    },
+    {
+      "id": 50,
+      "text": "What does the 'www' stand for in a website address?",
+      "options": ["World Wide Web", "World Web Wave"],
+      "correctAnswer": "World Wide Web",
+      "difficulty": 1,
+      "category": "Technology"
+    }
+  ]
+} 

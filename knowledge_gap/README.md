@@ -1,39 +1,98 @@
-# knowledge_gap
+# Knowledge GAP
 
-This template should help get you started developing with Vue 3 in Vite.
+An interactive web game that demonstrates how information manipulation works and how gaps in knowledge can distort our perception of reality.
 
-## Recommended IDE Setup
+## About the Game
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Knowledge GAP is a educational game with the following features:
 
-## Type Support for `.vue` Imports in TS
+- 30x15 grid of interactive circles
+- Answer questions to reveal colored patterns
+- Correct answers reveal the true colors; incorrect answers show false colors
+- Discover how misinformation and knowledge gaps create a distorted worldview
+- Statistics and analysis at the end of each game
+- Specialization options to focus on specific knowledge areas
+- Progress tracking across multiple game sessions
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Game Mechanics
 
-## Customize configuration
+1. Start with a mostly gray board with only 5% of circles revealed in their true colors
+2. Click on adjacent circles to reveal more of the image
+3. Answer knowledge questions to reveal circles
+4. Build a complete picture based on your knowledge
+5. Compare your perception with reality at the end
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Technical Details
 
-## Project Setup
+- Built with Vue.js 3, TypeScript, and modern web technologies
+- Responsive design for desktop devices
+- Local storage saving for game progress
+- Dynamic question loading from a knowledge database
 
-```sh
+## Getting Started
+
+### Installation
+
+```bash
+# Clone the repository
+git clone [your-repo-url]
+
+# Navigate to the project directory
+cd knowledge_gap
+
+# Install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Start the development server
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### Building for Production
 
-```sh
+```bash
+# Build the application
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Running Tests
 
-```sh
-npm run lint
+```bash
+# Run unit tests
+npm run test:unit
 ```
+
+## Project Structure
+
+```
+knowledge_gap/
+├── public/            # Static assets
+├── src/
+│   ├── assets/        # Images and styles
+│   ├── components/    # Vue components
+│   ├── data/          # Question database
+│   ├── router/        # Vue Router configuration
+│   ├── services/      # Game services
+│   ├── stores/        # Pinia stores (if used)
+│   └── views/         # Page components
+├── index.html         # Entry HTML file
+└── README.md          # This file
+```
+
+## Educational Purpose
+
+This game was designed to demonstrate:
+
+1. How gaps in knowledge affect our perception of reality
+2. How misinformation uses these gaps to create false impressions
+3. The importance of a well-rounded knowledge base
+4. How our areas of expertise influence our understanding
+
+## License
+
+[Add your license information here]
+
+## Acknowledgments
+
+- Created as an educational project
+- Questions cover various domains of knowledge
+- Designed to promote critical thinking and awareness of information manipulation
